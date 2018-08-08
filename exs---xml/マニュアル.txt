@@ -1,0 +1,14 @@
+■　XML　→　Ecel
+
+コマンド： java -jar XmlToExcel.jar 対象ファイル
+例　java -jar XmlToExcel.jar　D:\ICF_AutoCapsule_disabled\test-data-converter\PerformanceTest.xml
+
+※生成されたExcelファイルのシートはテーブルID
+
+
+■　Excel →　XML
+
+
+コマンド： java -jar ExcelToXml.jar 対象ファイル
+例　java -jar ExcelToXml.jar　D:\ICF_AutoCapsule_disabled\test-data-converter\PerformanceTest.xls
+
